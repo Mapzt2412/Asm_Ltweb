@@ -1,0 +1,24 @@
+.banner{
+    margin-top: 88px;
+    text-align: center;
+    padding: 20px;
+    background-color: #F4F9FC;
+    margin-bottom: 50px;
+}
+.dropdown{
+    margin-left: auto;
+    margin-right: 0px;
+}
+.more{
+    display: flex; 
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.more button{
+    background-color: #3a3b3b;
+    width: 150px;
+}
+.row{
+    margin-top: 30px;
+}

@@ -1,0 +1,22 @@
+.row{
+    margin: auto;
+    margin-top: 150px;
+}
+.row i{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+.banner{
+    font-size: 30px;
+    color : white;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: red;
+}
+h2{
+    text-align: center;
+}
